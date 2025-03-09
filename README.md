@@ -1,6 +1,6 @@
 # Ejemplos de SmolAgent 🤖
 
-Este repositorio contiene una colección de ejemplos prácticos que demuestran diferentes casos de uso de agentes de IA utilizando [smol-agent](https://huggingface.co/docs/transformers/smol_agent) de Hugging Face.
+Este repositorio contiene una colección de ejemplos prácticos que demuestran diferentes casos de uso de agentes de IA utilizando [smol-agent](https://huggingface.co/docs/smolagents/en/index) de Hugging Face.
 
 ## 📚 Contenido
 
@@ -76,12 +76,8 @@ Cada archivo de ejemplo incluye comentarios detallados que explican el funcionam
 
 Las contribuciones son bienvenidas. Si tienes un ejemplo interesante de uso de SmolAgent, no dudes en crear un pull request.
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
-
 ## ⭐️ Recursos Adicionales
 
-- [Documentación oficial de SmolAgent](https://huggingface.co/docs/transformers/smol_agent)
+- [Documentación oficial de SmolAgent](https://huggingface.co/docs/smolagents/en/index)
 - [Hugging Face Hub](https://huggingface.co/)
 - [Ejemplos adicionales de la comunidad](https://huggingface.co/spaces)
